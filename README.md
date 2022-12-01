@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @m-estienne
-- 👀 I’m interested in PHP, Symfony
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/estiennem/
+- 👀 I’m interested in HTML, CSS, JS, SQL,PHP, Symfony
+- 🌱 I’m currently learning Angular & React
+- 📫 How to reach me estienne.mathieu@gmail.com
 
 <!---
 m-estienne/m-estienne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
